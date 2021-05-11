@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Welcome home, I love you Jinjin!
 Use the left arrow to go back!
